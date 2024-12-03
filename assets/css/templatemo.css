@@ -51,12 +51,12 @@ body, ul, li, p, a, label, input, div {
 
 /* General */
 .logo { font-weight: 500 !important;}
-.text-warning {  color: #ede861 !important;}
+.text-warning {  color: #895ebd !important;}
 .text-muted { color: #bcbcbc !important;}
 .text-success { color: #895ebd !important;}
 .text-light { color: #f0eff0 !important;}
 .bg-dark { background-color: #212934 !important;}
-.bg-light { background-color: #e9eef5 !important;}
+.bg-light { background-color: #f0f0f0 !important;}
 .bg-black { background-color: #1d242d !important;}
 .bg-success { background-color: #895ebd !important;}
 .btn-success {
@@ -92,11 +92,17 @@ body, ul, li, p, a, label, input, div {
 
 /* Hero Carousel */
 #template-mo-zay-hero-carousel { background: #efefef !important;}
+
+
 /* Accordion */
 .templatemo-accordion a { color: #000;}
 .templatemo-accordion a:hover { color: #333d4a;}
+
+
 /* Shop */
 .shop-top-menu a:hover { color: #f4acf5 !important;}
+
+
 /* Product */
 .product-wap { box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.10);}
 .product-wap .product-color-dot.color-dot-red { background:#f71515;}
@@ -120,6 +126,12 @@ body, ul, li, p, a, label, input, div {
   font-size: 15px;
   margin-top: 20px;
 }
+
+.shadow {
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+
 /* Brand */
 .brand-img {
   width: 100px;
@@ -129,6 +141,8 @@ body, ul, li, p, a, label, input, div {
 .brand-img:hover {
   opacity: 0.5;
 }
+
+
 /* Carousel Hero */
 #template-mo-zay-hero-carousel .carousel-indicators li {
   margin-top: -50px;
@@ -139,18 +153,26 @@ body, ul, li, p, a, label, input, div {
   color: #895ebd !important;
   font-size: 2.8em !important;
 }
+
+
 /* Carousel Brand */
 .tempaltemo-carousel .h1 {
   font-size: .5em !important;
   color: #000 !important;
 }
+
+
 /* Services */
 .services-icon-wap {transition: .3s;}
 .services-icon-wap:hover, .services-icon-wap:hover i {color: #fff;}
 .services-icon-wap:hover {background: #f4acf5;}
+
+
 /* Contact map */
 .leaflet-control a, .leaflet-control { font-size: 10px !important;}
 .form-control { border: 1px solid #e8e8e8;}
+
+
 /* Footer */
 #tempaltemo_footer a { color: #dcdde1;}
 #tempaltemo_footer a:hover { color: #68bb7d;}
@@ -169,10 +191,14 @@ body, ul, li, p, a, label, input, div {
   transition: .5s;
 }
 #tempaltemo_footer .border-light { border-color: #2d343f !important;}
+
+
 /*
 // Extra small devices (portrait phones, less than 576px)
 // No media query since this is the default in Bootstrap
 */
+
+
 /* Small devices (landscape phones, 576px and up)*/
 .product-wap .h3, .product-wap li, .product-wap i, .product-wap p {
   font-size: 12px !important;
