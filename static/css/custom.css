@@ -1,0 +1,53 @@
+/*
+Custom Css
+*/
+
+.bg-success a {
+    color: #fff !important;
+}
+
+main a,
+.tags a {
+    color: #7449a8;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+a.categories {
+    color: #000;
+    font-weight: 400;
+}
+
+hr {
+    border: 1px solid #7449a8;
+    width: 100px;
+    margin-top: 20px;
+}
+
+#fluxo h2 {
+    letter-spacing: -1px;
+    font-size: 28px !important;
+} 
+
+.card a {
+    margin-bottom: 0;
+}
+
+.card-body>.product-title {
+    min-height: 3em;
+}
+
+.pagination-lg .page-link {
+    font-size: 18px;
+}
+
+.page-item span.disabled {
+    font-size: 18px;
+    color: #dac9da;
+    background-color: #f5d7f5 !important;
+}
+
+.page-item.disabled .page-link {
+    font-size: 18px;
+    background-color: #e8e6e8 !important;
+}
