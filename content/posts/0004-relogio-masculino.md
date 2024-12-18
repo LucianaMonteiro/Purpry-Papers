@@ -1,6 +1,7 @@
 ---
 title: "Relógio masculino"
-price: 100,00
+price: 120,00
+stars: 3
 tags: ["esportes", "moda", "acessórios"]
 image: "prd_0004.jpg"
 caption: "Design moderno!"

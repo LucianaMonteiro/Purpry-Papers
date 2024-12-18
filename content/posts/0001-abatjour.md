@@ -1,6 +1,7 @@
 ---
 title: "Abajour estilizado em madeira"
 suggest: true
+stars: 3
 tags: ["decoração", "luminárias", "retrô"]
 image: "prd_0001.jpg"
 summary: "Item com design retrô lembrando um personagem de cinema."
